@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I create random bots and automation tools until i find will to do anything useful and creative :)
+I create random bots and automation tools until I find the will to do anything useful and creative :)
 
 <!--
 **Kreavita/Kreavita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
