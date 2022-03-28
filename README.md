@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I create random bots and automation tools until I find the will to do anything useful and creative :)
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h4>ℹ️ &nbsp;Github STATSSS (because we all love stats, dont we?)</h4>
+### ℹ️ &nbsp;Github STATSSS (because we all love stats, dont we?)
 	
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kreavita&theme=github_dark" alt="Kreavita" align = "center"/></p>
