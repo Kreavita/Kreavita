@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2>ℹ️ &nbsp;Github STATSSS (because we all love stats, dont we?)</h2>
+<h4>ℹ️ &nbsp;Github STATSSS (because we all love stats, dont we?)</h4>
 	
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kreavita&theme=github_dark" alt="Kreavita" align = "center"/></p>
